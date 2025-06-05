@@ -16,7 +16,5 @@ I also love finding the irreducible complexity/complicatedness in the problem
 
 I love collaboration and teaching others
 
-I love computers
-
-I also really hate computers
+I love computers, even though they were a mistake.
 
